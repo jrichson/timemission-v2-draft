@@ -1,0 +1,1 @@
+document.querySelectorAll(".faq-question").forEach(e=>{e.addEventListener("click",()=>{const t=e.parentElement,c=t.classList.contains("active");document.querySelectorAll(".faq-item").forEach(a=>a.classList.remove("active")),c||t.classList.add("active")})});
