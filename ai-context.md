@@ -1,7 +1,5 @@
 # Time Mission AI Context
 
-Last updated: 2026-10-25
-
 ## Direct Answer Summary
 
 Time Mission is an interactive mission-room entertainment venue where teams of 2 to 5 players move through 25 or more short challenge rooms. Each mission takes about 1 to 5 minutes and can test speed, strength, skill, memory, logic, teamwork, or coordination.
@@ -22,7 +20,7 @@ Time Mission is built for group entertainment because every session separates la
 
 ### Where is Time Mission located?
 
-Time Mission currently serves guests through open entertainment venues and announced expansion markets. The Philadelphia location is open for booking and provides the clearest public venue details, including address, hours, tickets, group events, and mission information. Additional city pages identify planned or coming-soon markets so guests and search systems can distinguish active venues from expansion pages. For the most accurate booking information, start on the official Locations page, choose the city nearest you, and use that location page for tickets, group packages, directions, and contact details. Location status matters: open venues should be treated as playable destinations, while coming-soon pages are informational until Time Mission publishes booking details online. This structure helps families, friend groups, corporate teams, schools, and event planners find the right city page without confusing future locations for currently operating venues.
+Time Mission serves guests through open venues and announced expansion markets. Philadelphia, Houston, and Orland Park are open, Brussels routes through the Time Mission EU site, Eindhoven is open with tickets on sale through the Time Mission EU site, and Boston, Dallas, Edison, and Nashville are coming soon. Edison is planned for Supercharged Entertainment New Jersey at 987 US-1, Edison, NJ 08817, with updates on the Supercharged NJ site. Boston is planned for 200 State St, Boston, MA 02109, and Dallas is planned for 5307 E. Mockingbird Ln Ste 200 & 201, Dallas, TX 75206. For current booking information, start on the official Locations page, choose the nearest city, and use that location page for tickets, group packages, directions, and contact details. Status matters: open venues are playable destinations, while coming-soon pages provide official launch information until those venues open.
 
 ### What should I know before visiting Time Mission?
 
@@ -57,27 +55,32 @@ Time Mission is designed for families, friends, date nights, birthdays, corporat
 
 | Location | Status | Address | Contact | Canonical page | Booking |
 |---|---|---|---|---|---|
-| Mount Prospect | Open | 132 Randhurst Village Drive, Mount Prospect, IL, 60056, United States | (847) 250-9560 / mtprospect@timemission.com | https://timemission.com/mount-prospect | https://book.mountprospect.timemission.com/timemissionmountprospect/onlinecheckout/en-us/home |
-| Philadelphia | Open | 1530 Chestnut Street, Philadelphia, PA, 19102, United States | (267) 710-1240 / philly@timemission.com | https://timemission.com/philadelphia | https://book.philadelphia.timemission.com/timemissionphiladelphiapa/onlinecheckout/en-us/home |
-| West Nyack | Open | 3532 Palisades Center Dr, Level 3, West Nyack, NY, 10994, United States | (845) 328-4528 / palisades@timemission.com | https://timemission.com/west-nyack | https://timemission-palisades.briqbookings.com |
-| Lincoln | Open | 100 Higginson Ave, Lincoln, RI, 02865, United States | (401) 721-5554 / info@r1indoorkarting.com | https://timemission.com/lincoln | https://bookings.clubspeed.com/R1/R1LINCOLN?filters=959 |
-| Manassas | Open | 8300 Sudley Rd, Unit A2, Manassas, VA, 20109, United States | (571) 732-1050 / manassas@timemission.com | https://timemission.com/manassas | https://book.manassas.timemission.com/timemissionmanassasmall/onlinecheckout/en-us/home |
-| Houston | Coming soon | 7620 Katy Fwy, STE 355, Houston, TX, 77024, United States | (713) 588-1630 | https://timemission.com/houston | https://book.houston.timemission.com/timemissionhouston/onlinecheckout/en-us/home |
-| Antwerp | Open | Michiganstraat 1, Antwerp, 2030, Belgium | +32 3 301 03 03 / info@experience-factory.com | https://timemission.com/antwerp | https://www.experience-factory.com/antwerp/online-booking/#your-group=groups-of-friends&your-favorite-experience=time-mission |
-| Orland Park | Coming soon | 66 Orland Park, Orland Park, IL, 60462, United States | Not yet listed | https://timemission.com/orland-park | https://book.orlandpark.timemission.com/timemissionorlandpark/onlinecheckout/en-us/home |
-| Brussels | Coming soon | Av. Impératrice Charlotte, Bruxelles, 1020, Belgium | Not yet listed | https://timemission.com/brussels | Bookings not open yet |
-| Dallas | Coming soon | Dallas, TX, United States | Not yet listed | https://timemission.com/dallas | Bookings not open yet |
+| Scottsdale | Coming soon | 15745 Hayden Rd, Scottsdale, AZ, 85260, United States | Not yet listed | https://www.timemission.com/scottsdale | Bookings not open yet |
+| Mount Prospect | Open | 132 Randhurst Village Drive, Mount Prospect, IL, 60056, United States | (847) 250-9560 / mtprospect@timemission.com | https://www.timemission.com/mount-prospect | https://book.mountprospect.timemission.com/timemissionmountprospect/onlinecheckout/en-us/home |
+| Orland Park | Open | 66 Orland Square Dr, Suite C, Orland Park, IL, 60462, United States | (708) 294-8711 / OrlandPark@TimeMission.com | https://www.timemission.com/orland-park | https://book.orlandpark.timemission.com/timemissionorlandpark/onlinecheckout/en-us/home |
+| Boston | Coming soon | 200 State St, Boston, MA, 02109, United States | Not yet listed | https://www.timemission.com/boston | Bookings not open yet |
+| Edison | Open | 987 US-1, Edison, NJ, 08817, United States | (908) 624-8242 | https://www.superchargednj.com/book-time-mission/ | https://www.superchargednj.com/book-time-mission/ |
+| West Nyack | Open | 3532 Palisades Center Dr, Level 3, West Nyack, NY, 10994, United States | (845) 328-4528 / palisades@timemission.com | https://www.timemission.com/west-nyack | https://timemission-palisades.briqbookings.com |
+| Philadelphia | Open | 1530 Chestnut Street, Philadelphia, PA, 19102, United States | (267) 710-1240 / philly@timemission.com | https://www.timemission.com/philadelphia | https://book.philadelphia.timemission.com/timemissionphiladelphiapa/onlinecheckout/en-us/home |
+| Lincoln | Open | 100 Higginson Ave, Lincoln, RI, 02865, United States | (401) 721-5554 / info@r1indoorkarting.com | https://www.timemission.com/lincoln | https://bookings.clubspeed.com/R1/R1LINCOLN?filters=959 |
+| Nashville | Coming soon | 209 10th Avenue South, Suite 217A, Nashville, TN, 37203, United States | (629) 234-0123 / nashville@timemission.com | https://www.timemission.com/nashville | Bookings not open yet |
+| Dallas | Coming soon | 5307 E. Mockingbird Ln, Suite 200 & 201, Dallas, TX, 75206, United States | Not yet listed | https://www.timemission.com/dallas | Bookings not open yet |
+| Houston | Open | 7620 Katy Fwy, Suite 355, Houston, TX, 77024, United States | (713) 588-1630 / houston@timemission.com | https://www.timemission.com/houston | https://book.houston.timemission.com/timemissionhouston/onlinecheckout/en-us/home |
+| Manassas | Open | 8300 Sudley Rd, Suite A2, Manassas, VA, 20109, United States | (571) 732-1050 / manassas@timemission.com | https://www.timemission.com/manassas | https://book.manassas.timemission.com/timemissionmanassasmall/onlinecheckout/en-us/home |
+| Antwerp | Open | Michiganstraat 1, Antwerp, 2030, Belgium | +32 3 301 03 03 / antwerp@experience-factory.com | https://www.timemission.eu/antwerp | Bookings not open yet |
+| Brussels | Open | Av. Impératrice Charlotte, Bruxelles, 1020, Belgium | +32 (0) 479 66 09 32 / brussels@timemission.com | https://www.timemission.eu/brussels | Bookings not open yet |
+| Eindhoven | Open | Hermanus Boexstraat 4, Eindhoven, 5611 AJ, Netherlands | +31 (0)40 808 3636 / eindhoven@timemission.nl | https://www.timemission.eu/eindhoven | Bookings not open yet |
 
 ## Groups And Events
 
 | Group type | Summary | Canonical page |
 |---|---|---|
-| Birthdays | Celebrate with competitive missions and private space for cake and gifts. Great for kids, teens, and adults. | https://timemission.com/groups/birthdays |
-| Corporate & Team Building | Two ways to book: group tickets for casual team outings or full buyouts with catering and custom run-of-show. | https://timemission.com/groups/corporate |
-| Field Trips & Camps | Structured play for schools, camps, and youth groups with optional educational framing. | https://timemission.com/groups/field-trips |
-| Bachelor / Bachelorette | High-energy missions and photo-worthy moments before the big day. | https://timemission.com/groups/bachelor-ette |
-| Private Events | Full-venue experiences for larger groups, fundraisers, and custom programming. | https://timemission.com/groups/private-events |
-| Holidays | Seasonal packages and peak-date booking for holidays and school breaks. | https://timemission.com/groups/holidays |
+| Birthdays | Celebrate with competitive missions and private space for cake and gifts. Great for kids, teens, and adults. | https://www.timemission.com/groups/birthdays |
+| Corporate & Team Building | Two ways to book: group tickets for casual team outings or full buyouts with catering and custom run-of-show. | https://www.timemission.com/groups/corporate |
+| Holidays | Seasonal packages and peak-date booking for holidays and school breaks. | https://www.timemission.com/groups/holidays |
+| Field Trips & Camps | Structured play for schools, camps, and youth groups with optional educational framing. | https://www.timemission.com/groups/field-trips |
+| Private Events | Full-venue experiences for larger groups, fundraisers, and custom programming. | https://www.timemission.com/groups/private-events |
+| Bachelor / Bachelorette | High-energy missions and photo-worthy moments before the big day. | https://www.timemission.com/groups/bachelor-ette |
 
 ## Group Booking Answers
 
@@ -86,17 +89,17 @@ Time Mission is designed for families, friends, date nights, birthdays, corporat
 - Do you offer private party rooms? Yes! Party room availability and packages vary by location. You can book group tickets for the gaming experience and add a party room, or submit a custom event request for the full package.
 - Can you accommodate corporate events and large groups? Absolutely. We regularly host corporate outings, team building events, and groups of up to 125. Submit an event request and our team will create a custom package for your needs.
 - Can we bring cake, food, or party extras? It varies by location. Most venues have seating areas for cake and snacks, a few are mission-only. When you request a quote, we'll walk you through what your specific location offers — including any food, drink, or add-on packages available there.
-- What ages does this work for? Time Mission is perfect for ages 6 to 106! Kids 6–13 need an adult in the group. Ages 14+ can play on their own. Adult birthdays and milestone events are a big part of what we do too.
+- What ages does this work for? Time Mission is perfect for ages 6 to 106. Kids 6–13 need an adult in the group. Ages 14+ can play on their own. Adult birthdays and milestone events are a big part of what we do too.
 - How far in advance should we book? Three to four weeks is the sweet spot for weekend parties — weekend slots fill fastest. Weekdays are usually available with a week's notice.
 - Is food available at the venue? Food and drink offerings vary by location. Most locations without food or beverages will let you bring your own if you rent a party room. Please confirm what's available at your selected location when you book.
 - What's the deposit and cancellation policy? A small deposit holds your date. Full details — including reschedule windows — are included in the booking confirmation we send once you request a quote.
-- How big a team can you host? From 8-person team offsites up to 300+ full-venue buyouts, depending on the location. Send us your headcount and we'll confirm what's possible at your chosen venue.
+- How big a team can you host? From 8-person team offsites up to 125 full-venue buyouts, depending on the location. Send us your headcount and we'll confirm what's possible at your chosen venue.
 - Can we buy out the whole venue? Yes — most locations offer full-venue buyouts. Pricing and availability vary by location. Request a quote and we'll walk you through buyout options.
 - Is food and drink available? Varies by location. Some venues have full concessions and catering packages; others are BYO-friendly. We'll confirm what's available at your selected location when you book.
 - Can we brand the space or add custom signage? Custom branding, signage, and event personalization options depend on the location and event size. Full-venue buyouts generally have the most flexibility — let us know what you have in mind.
 - How far in advance should we book? Three to four weeks is typical for weekday team events. For peak corporate season (Q4, end-of-summer) we recommend six to eight weeks out.
 - Can we combine this with dinner or drinks nearby? Absolutely — most of our venues are near restaurants and bars. We can suggest partners near your selected location when you book.
-- What's the minimum headcount for a buyout? Varies by location, but most buyouts start around 40–60 guests. Send us your size and we'll confirm what works at your chosen venue.
+- What's the minimum headcount for a buyout? Varies by location, but most locations do not require a minimum headcount. Send us your size and we'll confirm what works at your chosen venue.
 - How is buyout pricing structured? Custom pricing based on venue, date, duration, and headcount. Request a quote and we'll send a detailed proposal.
 - Can we add custom branding or signage? Yes — most buyouts include options for branded signage, custom welcome experiences, and sometimes mission personalization. Let us know what you have in mind.
 - Is catering available? Catering and bar options vary by location. Some venues have full in-house packages, others allow you to work with outside caterers. We'll walk you through what's available when you book.
@@ -107,15 +110,15 @@ Time Mission is designed for families, friends, date nights, birthdays, corporat
 - Is catering available? Varies by location. Many venues have holiday-ready food and drink packages; others work with outside caterers. We'll share what's available at your selected location.
 - Can we organize a gift exchange or festive extras? Most locations can accommodate gift exchange space and festive add-ons, depending on venue setup. Let us know what you're planning.
 - Is a full-venue buyout available? Yes — most locations offer buyouts for larger holiday parties. Pricing and availability depend on the location and date.
-- What ages can play? Time Mission is perfect for ages 6 to 106! Kids 6–13 need an adult in the group. Ages 14+ can play on their own. Perfect for mixed-age family holiday parties.
+- What ages can play? Time Mission is perfect for ages 6 to 106. Kids 6–13 need an adult in the group. Great for mixed-age family holiday parties.
 - What group sizes do you accommodate? From 10-student small groups up to 125+ depending on the venue. Tell us your class size and we'll confirm what's possible at your chosen location.
-- What are your chaperone requirements? Chaperone ratios depend on grade level. Generally, one adult per 8–10 students for elementary groups and one per 15 for middle/high school. Chaperones are typically free or discounted.
+- What are your chaperone requirements? Chaperone ratios depend on grade level. Generally, one adult per 8–10 students for elementary groups and one per 15 for middle/high school. Chaperones who are not issued player wristbands are free.
 - Is there weekday availability? Yes — weekdays are our most flexible days for field trips. Morning and afternoon slots both available.
 - How does the experience align with curriculum? Missions cover physics, logic, problem-solving, and teamwork. We can provide an educator info packet that connects the experience to science, math, and social-emotional learning standards.
-- Is there a place for lunches or bus drop-off? Varies by location. Some venues have nearby lunch spots or drop-off zones; others recommend a boxed lunch before or after. We'll share location-specific logistics when you book.
+- Is there a place for lunches or bus drop-off? Varies by location. Most venues have nearby lunch spots, bus drop-off zones, or parking options. If a venue handles lunch differently, we'll share those logistics when you book.
 - What's the age minimum? Ages 6 and up. Kids under 14 need adult supervision in the group (which chaperones cover).
-- What group size works best? Anywhere from 6-person small crews up to 30+ party squads. Most locations can comfortably host a standard bachelor/ette group.
-- Are alcoholic drinks available? At most locations, yes — drink packages and bar options vary by venue. We'll confirm what's available when you request a quote.
+- What group size works best? Anywhere from 6-person small crews up to 30+ party squads. Most locations can comfortably host a standard bachelor or bachelorette group.
+- Are alcoholic drinks available? Varies by location. Some venues offer drink packages or bar options. Every location is near food and beverage options, and most are BYO-friendly. We'll confirm what's available when you request a quote.
 - Is there a dress code? Whatever you want. Sashes, matching shirts, custom tees — if it's fun and mission-friendly (no heels or open toed shoes for missions), we're into it.
 - Can we pair this with dinner or bars nearby? Absolutely — most of our venues are in entertainment districts with plenty of dinner and drink options nearby. We'll share recommendations when you book.
 - How far in advance should we book? Three to four weeks is typical for weekend slots. Popular wedding seasons (spring, summer, fall) fill faster — book earlier if you can.
@@ -123,17 +126,17 @@ Time Mission is designed for families, friends, date nights, birthdays, corporat
 
 ## Pricing And Booking
 
-For ticket pricing, booking rules, and gift card details, use https://timemission.com/pricing.md. Public web pages should cite the live location booking flow for final checkout prices because price can vary by location, date, session length, package, and headcount.
+For ticket pricing, booking rules, and gift card details, use https://www.timemission.com/pricing.md. Public web pages should cite the live location booking flow for final checkout prices because price can vary by location, date, session length, package, and headcount.
 
 ## Primary Public Sources
 
-- Homepage: https://timemission.com/
-- Missions: https://timemission.com/missions
-- Locations: https://timemission.com/locations
-- FAQ: https://timemission.com/faq
-- Groups and events: https://timemission.com/groups
-- Gift cards: https://timemission.com/gift-cards
-- Pricing facts: https://timemission.com/pricing.md
+- Homepage: https://www.timemission.com/
+- Missions: https://www.timemission.com/missions
+- Locations: https://www.timemission.com/locations
+- FAQ: https://www.timemission.com/faq
+- Groups and events: https://www.timemission.com/groups
+- Gift cards: https://www.timemission.com/gift-cards
+- Pricing facts: https://www.timemission.com/pricing.md
 
 ## Entity Profiles
 

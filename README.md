@@ -1,6 +1,6 @@
 # Time Mission website v2 (draft preview)
 
-Design preview of the `website-v2` branch of
+Design preview of the `website-v2` branch (built on the current live-site branch) of
 [jrichson/time-mission-website](https://github.com/jrichson/time-mission-website).
 **Not the live site.** Changes go live only when they are reviewed and merged there.
 

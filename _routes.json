@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "include": [
+    "/timemission-v2-draft/api/contact",
+    "/timemission-v2-draft/api/newsletter",
+    "/timemission-v2-draft/api/klaviyo-signup",
+    "/timemission-v2-draft/api/monitor-status",
+    "/timemission-v2-draft/api/social-feed"
+  ],
+  "exclude": []
+}

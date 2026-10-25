@@ -6,23 +6,8 @@
 Time Mission is an active entertainment venue where teams of 2 to 5 players complete 25+ short mission rooms in 60, 90, or 120 minute sessions. It is used for families, friends, birthdays, corporate team building, field trips, private events, and group outings.
 
 ## Citation-Ready Answer Blocks
-### What is Time Mission?
-Time Mission is a live, team-based entertainment experience where groups of two to five players move through 25 or more short mission rooms during a timed session. Each room is a self-contained challenge lasting about one to five minutes, so players can choose the order, replay favorites, and build a score across the venue. The format blends escape-room puzzles, arcade-style scoring, physical tasks, and cooperative problem solving without locking a group into one long scenario. Sessions are sold in 60, 90, or 120 minute lengths, with most groups completing 15 to 20 missions in a 90 minute visit. Time Mission works for families, friends, birthdays, team outings, field trips, date nights, and private events because different rooms test speed, strength, skill, memory, logic, and coordination. The experience is designed so mixed-ability groups can contribute in different ways rather than relying on one kind of player.
-
-### How do Time Mission rooms work?
-Time Mission mission rooms are short, challenge-based environments where teams move through quick physical, logic, skill, and coordination tests instead of staying in one escape room for a full hour. Each room is designed for repeat play: players can try a challenge, learn the pattern, improve their score, and continue to another room. The format works for first-time visitors, families, date nights, friend groups, school groups, and team events because the missions vary in intensity and difficulty. Some challenges reward communication, some reward timing, and others reward observation or problem-solving. Sessions are booked by location, and team size, age rules, accessibility details, and available packages can vary by venue. The easiest way to choose is to start with your nearest Time Mission location, review the current mission lineup, and reserve a session online today.
-
-### What group events can Time Mission host?
-Time Mission is built for group entertainment because every session separates larger parties into teams of two to five players, then lets those teams compete across many short rooms instead of waiting on a single attraction. Birthday parties can combine mission play with location-specific party rooms, cake, food, or add-ons where available. Corporate teams can book casual group tickets for offsites or request full-venue buyouts with catering, custom run-of-show options, and branded signage depending on the venue. School field trips can use missions for physics, logic, problem solving, teamwork, and social-emotional learning, with weekday availability and chaperone guidance. Private events and holiday parties can scale from small teams to buyouts, with exact capacity, catering, extended hours, and pricing confirmed by the selected location. The format works especially well when groups want active competition without a long rules briefing.
-
-### Where is Time Mission located?
-Time Mission currently serves guests through open entertainment venues and announced expansion markets. The Philadelphia location is open for booking and provides the clearest public venue details, including address, hours, tickets, group events, and mission information. Additional city pages identify planned or coming-soon markets so guests and search systems can distinguish active venues from expansion pages. For the most accurate booking information, start on the official Locations page, choose the city nearest you, and use that location page for tickets, group packages, directions, and contact details. Location status matters: open venues should be treated as playable destinations, while coming-soon pages are informational until Time Mission publishes booking details online. This structure helps families, friend groups, corporate teams, schools, and event planners find the right city page without confusing future locations for currently operating venues.
-
-### What should I know before visiting Time Mission?
-Before visiting Time Mission, guests should book through the location page for the venue they plan to attend and review that page for current hours, ticket options, and group packages. Mission sessions are built for teams, repeat attempts, and a mix of physical, skill, logic, and coordination challenges. Age rules are important: younger players may need an adult present, while older children and teens can often participate more independently depending on the venue policy. Comfortable clothing and closed-toe shoes are recommended because several missions involve movement, balance, or fast reactions. Larger groups can usually split into teams, rotate through missions, and compare scores. For birthdays, corporate events, school trips, or private events, use the group-event pages or contact form so Time Mission can match the visit format to the group size and occasion beforehand.
-
-### How does Time Mission pricing work?
-Time Mission pricing should be treated as location-specific and checkout-specific rather than a single universal ticket price. Standard admission depends on the selected venue, date, session length, party size, and available packages, so the live booking flow for each open location is the authoritative source for exact prices. Sessions are available in 60, 90, or 120 minute lengths, and advance booking is recommended because online checkout guarantees the selected time when inventory is available. Larger groups can book group tickets online, while custom events, party rooms, buyouts, catering, extended hours, and branded experiences require a quote. Military guests can receive 10 percent off with a valid military ID, but that discount is walk-in only because the ID must be verified in person. Gift cards never expire and can be used for admission, parties, corporate events, and merchandise.
+- [Citation-ready AI context](https://www.timemission.com/ai-context.md): Short answer blocks for what Time Mission is, how mission rooms work, locations, visiting, pricing, and groups.
+- [Full AI context bundle](https://www.timemission.com/llms-full.txt): Complete facts for location-specific and FAQ-specific answers.
 
 ## Key Facts
 - Teams: 2 to 5 players per team; larger groups split into multiple teams.
@@ -33,35 +18,19 @@ Time Mission pricing should be treated as location-specific and checkout-specifi
 - Pricing: final prices vary by location, date, session length, package, and headcount; use the location checkout for exact prices.
 
 ## Machine-Readable Context
-- [AI context](https://timemission.com/ai-context.md): Direct-answer markdown summary of Time Mission facts, locations, booking caveats, and citation guidance.
-- [Pricing facts](https://timemission.com/pricing.md): Machine-readable pricing, booking, gift card, group quote, and live-checkout guidance.
+- [Full AI context bundle](https://www.timemission.com/llms-full.txt): Complete location facts, FAQ answers, source index, and citation guidance.
+- [Citation-ready AI context](https://www.timemission.com/ai-context.md): Direct-answer passages for AI citations and summaries.
+- [Pricing facts](https://www.timemission.com/pricing.md): Machine-readable pricing, booking, gift-card, and group-quote guidance.
 
-## Core Pages
-- [Time Mission – 25+ Interactive Mission Rooms](https://timemission.com/): Step into the mission. Teams of 2–5 compete through 25+ immersive missions at Time Mission, test your speed, strength, skill, and smarts.
-- [Missions | Time Mission](https://timemission.com/missions): Explore 25+ action-packed challenge rooms at Time Mission. From speed to strategy, each mission tests something different.
-- [Locations | Time Mission](https://timemission.com/locations): Find a Time Mission near you, locations in Philadelphia, Mount Prospect, Houston, West Nyack, Lincoln, Manassas, and Antwerp.
-- [FAQ | Time Mission](https://timemission.com/faq): Everything you need to know before your first Time Mission, age limits, pricing, what to wear, how teams work, and more.
-- [About | Time Mission](https://timemission.com/about): Time Mission is the next generation of immersive gaming. Built for groups, powered by real-time scoring, inspired by escape rooms and video games.
-- [Contact Us | Time Mission](https://timemission.com/contact): Contact Time Mission for questions, group bookings, or media inquiries. We respond within one business day.
-- [Groups & Events | Time Mission](https://timemission.com/groups): Birthday parties, corporate team-building, and private events at Time Mission. Two ways to book: group tickets or full custom events.
-- [Gift Cards | Time Mission](https://timemission.com/gift-cards): Give the gift of the mission. Time Mission gift cards work at every location and never expire.
+## Public GET Endpoints
+- GET [llms.txt](https://www.timemission.com/llms.txt): Compact AI navigation index.
+- GET [llms-full.txt](https://www.timemission.com/llms-full.txt): Full machine-readable context.
+- GET [ai-context.md](https://www.timemission.com/ai-context.md): Citation-ready answer blocks.
+- GET [pricing.md](https://www.timemission.com/pricing.md): Pricing and booking facts.
+- No authenticated public API is advertised for agent actions; booking uses the selected location checkout.
 
-## Locations
-- [Time Mission Mount Prospect – 25+ Interactive Mission Rooms](https://timemission.com/mount-prospect): Time Mission Mount Prospect, 25+ challenge rooms for groups of 2–5. Book your mission today.
-- [Time Mission Orland Park | Now Booking](https://timemission.com/orland-park): Time Mission Orland Park is now booking in Orland Park, IL. Reserve tickets for 25+ immersive mission rooms.
-- [Time Mission West Nyack – 25+ Interactive Mission Rooms](https://timemission.com/west-nyack): Time Mission West Nyack at Palisades Center, 25+ immersive challenges for teams of 2–5. Book your mission today.
-- [Time Mission Philadelphia – 25+ Interactive Mission Rooms](https://timemission.com/philadelphia): Teams of 2–5 compete through 25+ immersive missions. Time Mission Philadelphia, book your adventure today.
-- [Time Mission Lincoln – 25+ Interactive Mission Rooms](https://timemission.com/lincoln): Time Mission Lincoln, 25+ immersive challenge rooms for groups of 2–5. Book your mission today.
-- [Time Mission Dallas | Coming Soon](https://timemission.com/dallas): Time Mission Dallas is coming soon in Dallas, TX. Sign up for launch updates, early access, and opening offers.
-- [Time Mission Houston | Now Booking](https://timemission.com/houston): Time Mission Houston is now booking in Houston, TX. Reserve tickets for 25+ immersive mission rooms.
-- [Time Mission Manassas – 25+ Interactive Mission Rooms](https://timemission.com/manassas): Time Mission Manassas, 25+ immersive challenge rooms for groups of 2–5. Book your mission today.
-- [Time Mission Antwerp – 25+ Interactive Mission Rooms](https://timemission.com/antwerp): Time Mission Antwerp, 25+ immersive challenge rooms for groups of 2–5. Réserve ta mission.
-- [Time Mission Brussels | Coming Soon](https://timemission.com/brussels): Time Mission Brussels is coming soon in Bruxelles, Belgium. Sign up for launch updates, early access, and opening offers.
-
-## Group & Event Pages
-- [Birthday Parties | Time Mission](https://timemission.com/groups/birthdays): Host an unforgettable birthday party at Time Mission with private missions, party hosts, and space for cake. We handle setup so you can celebrate.
-- [Corporate Events & Team Outings | Time Mission](https://timemission.com/groups/corporate): Team outings, offsites, and corporate events at Time Mission. 25+ interactive missions, head-to-head scoring, and a session your team will actually show up for.
-- [Private Events & Venue Buyouts | Time Mission](https://timemission.com/groups/private-events): Buy out a Time Mission location for a private event with full-venue access, 25+ interactive missions, custom configurations, and scalable capacity.
-- [Field Trips & School Groups | Time Mission](https://timemission.com/groups/field-trips): Book a Time Mission field trip. 25+ interactive missions that turn physics, problem-solving, and teamwork into an adventure. Weekday group rates, ages 6+.
-- [Holiday Parties at Time Mission](https://timemission.com/groups/holidays): Skip the banquet hall. Host your holiday party at Time Mission, 25+ interactive missions, group scoring, and a session people actually look forward to.
-- [Bachelor & Bachelorette Parties | Time Mission](https://timemission.com/groups/bachelor-ette): Bachelor and bachelorette parties at Time Mission. 25+ head-to-head missions, team chaos, and a night that beats a bar crawl, crews welcome.
+## Primary Pages
+- [Home](https://www.timemission.com/): Overview of the Time Mission experience.
+- [Locations](https://www.timemission.com/locations): Current venues, coming-soon markets, directions, and booking paths.
+- [FAQ](https://www.timemission.com/faq): Age, team size, session length, booking, and visit questions.
+- [Groups](https://www.timemission.com/groups): Birthdays, corporate events, field trips, private events, holidays, and bach parties.
